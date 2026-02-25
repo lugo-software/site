@@ -26,7 +26,7 @@
         <span class="md:text-2xl font-[Oxanium] font-bold">About</span>
       </NavLi> -->
       <NavLi href="https://gtlugo.com">
-        <span class="md:text-2xl font-[Oxanium] font-bold">Blog</span>
+        <span class="md:text-2xl font-[Oxanium] font-bold">Portfolio</span>
       </NavLi>
     </NavUl>
   </Navbar>
